@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-   testJenkins哈哈哈111testedjfadslkjadsfjkl
+   自动化构建jenkins
   </div>
 </template>
 
